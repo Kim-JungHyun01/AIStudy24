@@ -3,6 +3,9 @@ Python 머신러닝, 딥러닝 학습용 2024
 
 ## 참고자료
 - [Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011#google_vignette)
+  
+## 정리
+[k-최근접 알고리즘 정리](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/k_%EC%B5%9C%EA%B7%BC%EC%A0%91_%ED%95%99%EC%8A%B5%EC%A0%95%EB%A6%AC.ipynb)
 
 ---
 **시나리오 1**

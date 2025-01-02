@@ -39,6 +39,9 @@ Python 머신러닝, 딥러닝 학습용 2024
   
 - k-최근접 회귀 알고리즘
   
-    1. [이웃회귀](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%9D%B4%EC%9B%83%ED%9A%8C%EA%B7%80.ipynb) 
+    1. [이웃회귀](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%9D%B4%EC%9B%83%ED%9A%8C%EA%B7%80.ipynb)
+       
+- 선형회귀, 다항회귀
+    1. [k-최근접 이웃 알고리즘의 한계](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/k_%EC%B5%9C%EA%B7%BC%EC%A0%91_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%ED%95%9C%EA%B3%84.ipynb)
 
 ---

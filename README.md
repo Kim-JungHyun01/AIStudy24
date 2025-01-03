@@ -29,6 +29,9 @@ Python 머신러닝, 딥러닝 학습용 2024
   3. [데이터전처리학습](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC%ED%95%99%EC%8A%B5.ipynb)
 ---
 **시나리오 2**
+
+- 학습시간 : 2024-12-31 ~ 2025-01-02
+
 - 시기 : 여름 농어철
 
     농어주문이 크게 늘어남 => 무게단위로 판매하기로 결정
@@ -46,5 +49,18 @@ Python 머신러닝, 딥러닝 학습용 2024
 
 - 특성공학
     1. [다중회귀](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%8B%A4%EC%A4%91%ED%9A%8C%EA%B7%80.ipynb)
+
+---
+**시나리오 3**
+
+- 학습시간 : 2025-01-03 ~ 
+
+- 럭키백 판매
+
+  구성품 : 생선(종류 7가지 랜덤)
+
+  7가지의 생선 각각의 뽑기확률 제공
+
+  1. [로지스틱회귀](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80_%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4.ipynb)
 
 ---

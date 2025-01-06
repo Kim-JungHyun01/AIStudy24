@@ -53,7 +53,7 @@ Python 머신러닝, 딥러닝 학습용 2024
 ---
 **시나리오 3**
 
-- 학습시간 : 2025-01-03 ~ 
+- 학습시간 : 2025-01-03 ~ 2025-01-06
 
 - 럭키백 판매
 
@@ -64,3 +64,20 @@ Python 머신러닝, 딥러닝 학습용 2024
   1. [로지스틱회귀](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80_%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4.ipynb)
   2. [확률적경사하강법](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%99%95%EB%A5%A0%EC%A0%81%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95.ipynb)
 ---
+**시나리오**
+- 학습시간 : 2025-01-06 ~
+- 신상품 : 캔 와인
+  
+  주류는 온라인 판매가 안되기에 온라인 예약 후, 오프라인매장에서 구매유도
+  
+  근데, 입고된 와인이 레드 or 화이트인지 구분표시가 안되있음
+  
+  캔에 인쇄된 라벨정보 : 알콜도수, 당도, pH 값(alcohol,sugar,pH,class)
+  
+  품질확인용으로 개방한 캔 : 테스트용
+  
+  로지스틱 회귀모델 적용
+
+  1. [결정트리](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC.ipynb)
+  2. [교차검증](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D_%EA%B7%B8%EB%A6%AC%EB%93%9C%EC%84%9C%EC%B9%98.ipynb)
+

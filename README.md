@@ -8,6 +8,8 @@ Python 머신러닝, 딥러닝 학습용 2024
 [k-최근접 알고리즘 정리](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/k_%EC%B5%9C%EA%B7%BC%EC%A0%91_%ED%95%99%EC%8A%B5%EC%A0%95%EB%A6%AC.ipynb)
 
 ---
+머신러닝
+---
 **시나리오 1**
 
 - 학습시간 : 2024-12-30 ~ 2024-12-31
@@ -64,7 +66,7 @@ Python 머신러닝, 딥러닝 학습용 2024
   1. [로지스틱회귀](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80_%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4.ipynb)
   2. [확률적경사하강법](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%99%95%EB%A5%A0%EC%A0%81%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95.ipynb)
 ---
-**시나리오**
+**시나리오 4**
 - 학습시간 : 2025-01-06 ~ 2025-01-07
 - 신상품 : 캔 와인
   
@@ -80,3 +82,16 @@ Python 머신러닝, 딥러닝 학습용 2024
   2. [교차검증](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D_%EA%B7%B8%EB%A6%AC%EB%93%9C%EC%84%9C%EC%B9%98.ipynb)
   3. [앙상블](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%95%99%EC%83%81%EB%B8%94.ipynb)
 
+---
+딥러닝
+---
+**시나리오 1**
+- 학습시간 : 2025-01-07 ~ 
+- 본인이 구매한 과일사진을 홈페이지에 업로드하면 추첨을 하여 상품을 제공
+  고객이 올린 사진을 학습하여 과일 분류
+
+1. [비지도학습, 군집알고리즘](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B5%B0%EC%A7%91%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.ipynb)
+2. [k-평균(k-mean)](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/k_%ED%8F%89%EA%B7%A0(k_means).ipynb)
+3. [주성분분석(PCA)](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%A3%BC%EC%84%B1%EB%B6%84%EB%B6%84%EC%84%9D.ipynb)
+
+---

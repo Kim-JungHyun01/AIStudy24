@@ -5,7 +5,8 @@ Python 머신러닝, 딥러닝 학습용 2024
 - [Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011#google_vignette)
   
 ## 정리
-[k-최근접 알고리즘 정리](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/k_%EC%B5%9C%EA%B7%BC%EC%A0%91_%ED%95%99%EC%8A%B5%EC%A0%95%EB%A6%AC.ipynb)
+[k-최근접 알고리즘 정리](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EC%A0%95%EB%A6%AC/k_%EC%B5%9C%EA%B7%BC%EC%A0%91_%ED%95%99%EC%8A%B5%EC%A0%95%EB%A6%AC.ipynb)
+[머신러닝 총정리](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EC%A0%95%EB%A6%AC/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%B4%9D%EC%A0%95%EB%A6%AC.ipynb)
 
 ---
 머신러닝
@@ -90,8 +91,8 @@ Python 머신러닝, 딥러닝 학습용 2024
 - 본인이 구매한 과일사진을 홈페이지에 업로드하면 추첨을 하여 상품을 제공
   고객이 올린 사진을 학습하여 과일 분류
 
-1. [비지도학습, 군집알고리즘](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B5%B0%EC%A7%91%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.ipynb)
-2. [k-평균(k-mean)](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/k_%ED%8F%89%EA%B7%A0(k_means).ipynb)
-3. [주성분분석(PCA)](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%A3%BC%EC%84%B1%EB%B6%84%EB%B6%84%EC%84%9D.ipynb)
+1. [비지도학습, 군집알고리즘](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%EA%B5%B0%EC%A7%91%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.ipynb)
+2. [k-평균(k-mean)](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/k_%ED%8F%89%EA%B7%A0(k_means).ipynb)
+3. [주성분분석(PCA)](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%EC%A3%BC%EC%84%B1%EB%B6%84%EB%B6%84%EC%84%9D.ipynb)
 
 ---

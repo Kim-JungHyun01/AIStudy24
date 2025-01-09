@@ -87,12 +87,20 @@ Python 머신러닝, 딥러닝 학습용 2024
 딥러닝
 ---
 **시나리오 1**
-- 학습시간 : 2025-01-07 ~ 
+- 학습시간 : 2025-01-07 ~ 2025-01-08
 - 본인이 구매한 과일사진을 홈페이지에 업로드하면 추첨을 하여 상품을 제공
   고객이 올린 사진을 학습하여 과일 분류
 
-1. [비지도학습, 군집알고리즘](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%EA%B5%B0%EC%A7%91%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.ipynb)
-2. [k-평균(k-mean)](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/k_%ED%8F%89%EA%B7%A0(k_means).ipynb)
-3. [주성분분석(PCA)](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%EC%A3%BC%EC%84%B1%EB%B6%84%EB%B6%84%EC%84%9D.ipynb)
+  1. [비지도학습, 군집알고리즘](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%EA%B5%B0%EC%A7%91%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.ipynb)
+  2. [k-평균(k-mean)](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/k_%ED%8F%89%EA%B7%A0(k_means).ipynb)
+  3. [주성분분석(PCA)](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%EC%A3%BC%EC%84%B1%EB%B6%84%EB%B6%84%EC%84%9D.ipynb)
 
+---
+
+**시나리오 2**
+- 학습시간 : 2025-01-09~
+- 럭키백을 패션분야에 접목
+  상품갯수 증가 및 일반 잡화용제공
+
+  1. [인공신경망](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb)
 ---

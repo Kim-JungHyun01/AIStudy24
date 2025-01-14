@@ -99,7 +99,7 @@ Python 머신러닝, 딥러닝 학습용 2024
 ---
 
 **시나리오 2**
-- 학습시간 : 2025-01-09~
+- 학습시간 : 2025-01-09~2025-01-13
 - 럭키백을 패션분야에 접목
   상품갯수 증가 및 일반 잡화용제공
 
@@ -109,4 +109,12 @@ Python 머신러닝, 딥러닝 학습용 2024
   4. [드룹아웃, 콜백, 조기종료](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D%EA%B8%B0%ED%83%80%EB%8F%84%EA%B5%AC.ipynb)
   5. [합성곱신경망](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%ED%95%A9%EC%84%B1%EA%B3%B1%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb)
   6. [가중치시각화](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%ED%95%A9%EC%84%B1%EA%B3%B1%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
+---
+
+**시나리오 3**
+- 학습시간 : 2025-01-14~
+- 요즘 상품에 대한 댓글이 이슈가 있어서 댓글을 보고 좋은 상품인지 개선해야될 상품인지 분석(별점이슈)
+
+  
+  1. [순차데이터, 순환신경망](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%EC%88%9C%EC%B0%A8%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80_%EC%88%9C%ED%99%98%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb)
 ---

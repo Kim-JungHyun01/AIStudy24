@@ -112,9 +112,9 @@ Python 머신러닝, 딥러닝 학습용 2024
 ---
 
 **시나리오 3**
-- 학습시간 : 2025-01-14~
+- 학습시간 : 2025-01-14~2025-01-15
 - 요즘 상품에 대한 댓글이 이슈가 있어서 댓글을 보고 좋은 상품인지 개선해야될 상품인지 분석(별점이슈)
 
-  
   1. [순차데이터, 순환신경망](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/%EC%88%9C%EC%B0%A8%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80_%EC%88%9C%ED%99%98%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb)
+  2. [LSTM_GRU](https://github.com/Kim-JungHyun01/AIStudy24/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D/LSTM_GRU.ipynb)
 ---
